@@ -1,0 +1,14 @@
+Witaj świecie
+Witaj, Jan
+Równe
+Number: 1
+Number: 2
+Number: 3
+Number: 4
+Number: 5
+Licz: 1
+Licz: 2
+Licz: 3
+Licz: 4
+Licz: 5
+Witaj, Jan
